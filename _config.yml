@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -105,9 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "QFM Lab"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Fish population dynamics, stock assessment"
-  location         : "416, Marine Joint Research Center(C13), Pukyong National University Daeyeon Campus, Daeyeon-dong, Nam-gu, Busan"
+  avatar           : #"/assets/images/bio-photo.jpg"
+  bio              : "Fish population dynamics, stock assessment, statistical inference of multiple parameters in non-linear models, mathmatical statistics, application of statistics to ecology"
+  location         : "416, Marine Joint Research Center(C13), PKNU"
+    url            : "https://www.pknu.ac.kr/main/133"
   email            :
   links:
     - label: "Email"
