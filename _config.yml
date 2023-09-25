@@ -20,7 +20,7 @@ title                    : "QFM Lab"
 title_separator          : "-"
 subtitle                 : Quantitative Fisheries Management Laboratory (PKNU)
 name                     : "QFM"
-description              : "An amazing website."
+description              : "Quantitative Fisheries Management Laboratory (PKNU)"
 url                      : "https://mingdiC.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
