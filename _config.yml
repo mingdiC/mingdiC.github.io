@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "QFM Lab"
-  avatar           : "C:\Users\박민지\OneDrive\문서\GitHub\mingdiC.github.io\assets\ava.png"
+  avatar           : "/assets/ava.png"
   bio              : "Fish population dynamics, stock assessment, statistical inference of multiple parameters in non-linear models, mathmatical statistics, application of statistics to ecology"
   location         : "416, Marine Joint Research Center(C13), PKNU"
   email            :
